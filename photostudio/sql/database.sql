@@ -1,5 +1,4 @@
 -- База данных фотостудии «Кадр»
--- Импорт: phpMyAdmin -> вкладка «Импорт» -> выбрать этот файл
 CREATE DATABASE IF NOT EXISTS photostudio CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE photostudio;
 
